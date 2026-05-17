@@ -1,0 +1,6 @@
+{
+  "name": "school/system",
+  "description": "PHP MySQL School System",
+  "type": "project",
+  "require": {}
+}
