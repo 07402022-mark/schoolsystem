@@ -1,0 +1,29 @@
+body {
+    background: white !important;
+    color: black !important;
+}
+
+.topbar,
+.sidebar,
+button,
+a {
+    display: none !important;
+}
+
+.content {
+    padding: 0;
+}
+
+.card {
+    box-shadow: none;
+    border: 1px solid #000;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+}
